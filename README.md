@@ -5,4 +5,4 @@
 
 Aviso: O comando config.json foi deletado já que o prefixo fica nele, para usar esse código você precisa criar um arquivo com o nome "config.json" e vai por nele isso:
 ``"prefix":"Prefixo aqui",
-"token":"Seu token aqui``
+"token":"Seu token aqui"``
